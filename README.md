@@ -10,3 +10,5 @@ What makes this dataset special it generate background attakcs and threats.
 
 # Data
 The dataset contains 5074413 combined of malcious and bengin with over 88 features for each, 20 of which are categorical. 12 DDoS attacks includes NTP, DNS, LDAP, MSSQL, NetBIOS, SNMP, SSDP, UDP, UDP-Lag, WebDDoS, SYN and TFTP on the training day and 7 attacks including PortScan, NetBIOS, LDAP, MSSQL, UDP, UDP-Lag and SYN in the testing day. The traffic volume for WebDDoS was so low and PortScan just has been executed in the testing day and will be unknown for evaluating the proposed modendertaken to inform baseline models and feature engineering.
+
+Dataset Link: https://www.unb.ca/cic/datasets/ddos-2019.html
